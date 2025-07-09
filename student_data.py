@@ -2,7 +2,7 @@
 # Dateiname: student_data.py
 # 
 # Autor: Nikhil Schmelzle
-# Letzte Änderung: 08.07.2025
+# Letzte Änderung: 09.07.2025
 #----------------------------------------------------------------
 
 # Funktion zum Speichern einer Liste von Studierenden-Datensätzen
